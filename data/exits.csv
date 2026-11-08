@@ -1,0 +1,5 @@
+exit_id,row,col,label
+E1,1,2,Stage-left stair access
+E2,1,50,Left foyer stair access
+E3,1,94,Right foyer stair access
+E4,1,140,Stage-right stair access

@@ -1,0 +1,28 @@
+# Local Julia depot, coverage, and allocation reports
+/.julia/
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+/coverage/
+
+# Large generated trajectories and machine-local review state
+/output/runs/
+/data/layout_approval.txt
+/tmp/
+
+# Optional preview-renderer dependencies and temporary caches
+node_modules/
+__pycache__/
+*.py[cod]
+
+# Local credentials and editor settings
+.env
+.env.*
+!.env.example
+/.vscode/
+/.idea/
+
+# macOS metadata
+.DS_Store
+.AppleDouble
+.LSOverride

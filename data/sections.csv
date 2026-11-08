@@ -1,0 +1,7 @@
+section,label,start_col,end_col,AAA,BBB,CCC
+LW,Left wing,4,25,22,22,12
+LA,Left arc,28,48,19,21,12
+LC,Left center,51,70,19,20,11
+RC,Right center,73,92,19,20,12
+RA,Right arc,95,115,19,21,12
+RW,Right wing,118,138,21,21,12
